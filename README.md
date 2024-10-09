@@ -32,8 +32,6 @@ You can send me a message on **rzdeb94@gmail.com** or [![LinkedIn](https://img.s
 ![MUI](https://img.shields.io/badge/MUI-%23222222?style=for-the-badge&logo=mui&logoColor=%23007FFF&logoSize=auto)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23222222?style=for-the-badge&logo=reacthookform&logoColor=%23EC5990&logoSize=auto)
 ![Formik](https://img.shields.io/badge/Formik-%23222222?style=for-the-badge&logo=formik&logoColor=%23EC5990&logoSize=auto)
-![Ant Design](https://img.shields.io/badge/Ant_Design-%23222222?style=for-the-badge&logoColor=%23007FFF&logoSize=auto)
-![Zustand](https://img.shields.io/badge/Zustand-%23222222?style=for-the-badge&logoColor=%23007FFF&logoSize=auto)
 
 ### Backend:
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-222222.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
