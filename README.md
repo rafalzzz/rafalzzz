@@ -6,7 +6,7 @@
 </p>
 
 ## 📫&nbsp; Contact:
-You can send me a message on **rzdeb94@gmail.com** or [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](www.linkedin.com/in/rzdeb94)
+You can send me a message on **rzdeb94@gmail.com** or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rzdeb94/)
 
 ## 🛠&nbsp; Tools and Technologies:
 
