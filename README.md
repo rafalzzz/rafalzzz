@@ -47,7 +47,7 @@ You can send me a message on **rzdeb94@gmail.com** or [![LinkedIn](https://img.s
 ### Tests:
 ![Jest](https://img.shields.io/badge/Jest-222222.svg?style=for-the-badge&logo=jest&logoColor=D75065)
 ![React Testing Library](https://img.shields.io/badge/React_testing_library-%23222222?style=for-the-badge&logoSize=auto)
-![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781)
+<!-- ![Cypress](https://img.shields.io/badge/Cypress-222222.svg?style=for-the-badge&logo=cypress&logoColor=15B781) -->
 
 ### Tools:
 ![NPM](https://img.shields.io/badge/NPM-222222.svg?style=for-the-badge&logo=npm&logoColor=EF2E40)
