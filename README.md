@@ -2,7 +2,7 @@
 
 <img alt="Software Developer" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A630B0&center=false&vCenter=true&width=435&lines=Software+Developer">
 
-<p align="left">👨🏻‍💻 I am <strong>Software Engineer</strong> with 4+ years of experience in commercial projects, specializing in <strong>analysis</strong>, <strong>problem-solving</strong>, and <strong>debugging</strong>. A proactive team player, adaptable to change, and dedicated to continuous learning. Skilled at translating client needs into efficient solutions using the right technology stack, with a passion for coding as both a craft and science.
+<p align="left">👨🏻‍💻 I am <strong>Software Engineer</strong> with 5+ years of experience in commercial projects, specializing in <strong>analysis</strong>, <strong>problem-solving</strong>, and <strong>debugging</strong>. A proactive team player, adaptable to change, and dedicated to continuous learning. Skilled at translating client needs into efficient solutions using the right technology stack, with a passion for coding as both a craft and science.
 </p>
 
 ## 📫&nbsp; Contact:
